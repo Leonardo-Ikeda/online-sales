@@ -30,6 +30,8 @@ O dashboard interativo foi desenvolvido com foco em:
 
 ![image](https://github.com/user-attachments/assets/436796b6-591f-4fb8-9a20-10b7a9257d42)
 
+![image](https://github.com/user-attachments/assets/f6b7a152-5d43-4e76-96da-ba944315b314)
+
 
 
 ## 🛠️ Ferramentas Utilizadas
@@ -44,7 +46,10 @@ O dashboard interativo foi desenvolvido com foco em:
 - A categoria eletrônicos possui maior faturamento, porém a categoria roupas possui o maior lucro líquido e maior quantidade de vendas;
 - O faturamento esta apresentando um declínio ao longo dos meses, necessitando de plano de ação para Marketing e Vendas;
 - O negócio possui baixo %lucro 8,44%, sendo um faturamento total de 438k e um lucro líquido de apenas 37k;
-- Produtos dando prejuízo: Leggings, Skirt, Kurti, Eletronic Games e Furnishings.
+- Produtos dando prejuízo: Leggings, Skirt, Kurti, Eletronic Games e Furnishings;
+- No primeiro trimestre de 2018 apresentou um lucro líquido de 25.942, acima do esperado de 21.846;
+- Foram apresentado 6 pontos com lucros líquidos negativos fora do padrão, nos dias 22/05, 22/07, 14/09, 01/10, 14/12 e 27/12;
+- Previsão lucro líquido para Março 2019: Otimista = 13.870, Pessimista = -9.694 e Provável = 2.088.
 
 ## 📁 Como Visualizar
 
