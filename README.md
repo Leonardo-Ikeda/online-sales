@@ -43,7 +43,8 @@ O dashboard interativo foi desenvolvido com foco em:
 - As vendas estão concentradas no centro da India, nos estados de Maharashtra e Madhya Pradesh. As top 5 cidades com maior volume de vendas são: Indore, Mumbai, Pune, Mathura e Bhopal;
 - A categoria eletrônicos possui maior faturamento, porém a categoria roupas possui o maior lucro líquido e maior quantidade de vendas;
 - O faturamento esta apresentando um declínio ao longo dos meses, necessitando de plano de ação para Marketing e Vendas;
-- O negócio possui baixo %lucro 8,44%, sendo um faturamento total de 438k e um lucro líquido de apenas 37k; 
+- O negócio possui baixo %lucro 8,44%, sendo um faturamento total de 438k e um lucro líquido de apenas 37k;
+- Produtos dando prejuízo: Leggings, Skirt, Kurti, Eletronic Games e Furnishings.
 
 ## 📁 Como Visualizar
 
