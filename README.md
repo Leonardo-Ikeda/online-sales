@@ -30,8 +30,7 @@ O dashboard interativo foi desenvolvido com foco em:
 
 ![image](https://github.com/user-attachments/assets/436796b6-591f-4fb8-9a20-10b7a9257d42)
 
-![image](https://github.com/user-attachments/assets/f6b7a152-5d43-4e76-96da-ba944315b314)
-
+![image](https://github.com/user-attachments/assets/142e62a3-6964-43fd-822e-bc09d1632712)
 
 
 ## 🛠️ Ferramentas Utilizadas
