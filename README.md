@@ -36,7 +36,7 @@ O dashboard interativo foi desenvolvido com foco em:
 ## 🛠️ Ferramentas Utilizadas
 
 - **Power BI** – para tratamento de dados, modelagem e visualização
-- **Excel/Power Query** – para manipulação prévia (se aplicável)
+- **Power Query** – para manipulação prévia
 - **Kaggle** – fonte do dataset
 
 ## 📌 Conclusões
